@@ -87,7 +87,7 @@ AliIconFontGen 是一个开源工具，专为嵌入式系统中使用的 LVGL（
 
 安装与使用
 ### 依赖
-确保 lv_font_conv 已安装并包含在系统 PATH 中。
+确保 [lv_font_conv](https://github.com/lvgl/lv_font_conv) 已安装并包含在系统 PATH 中。
 
 Python 脚本无需额外安装，仅使用标准库。
 
